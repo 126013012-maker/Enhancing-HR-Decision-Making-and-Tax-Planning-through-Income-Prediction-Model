@@ -9,3 +9,12 @@ This project builds a machine learning-based web application to predict whether 
 - Simple and interactive interface (Gradio)
 - Cleaned and processed Adult dataset (`adult 3.csv`)
 - Ready for deployment and future enhancements
+
+income-prediction-hr-tax
+ salary_model.pkl         → Trained model
+ app.py                   → app code
+ adult 3.csv              → Dataset used
+ requirements.txt         → Dependencies list
+ income prediction.ipynb   → Full Colab training & testing
+ 
+
