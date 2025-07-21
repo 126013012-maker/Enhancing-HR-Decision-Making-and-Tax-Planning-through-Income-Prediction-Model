@@ -6,6 +6,6 @@ This project builds a machine learning-based web application to predict whether 
 
 - Predict income category: `<=50` or `>50K`
 - Uses Logistic Regression with preprocessing pipeline
-- Simple and interactive interface (Gradio or Flask)
+- Simple and interactive interface (Gradio)
 - Cleaned and processed Adult dataset (`adult 3.csv`)
 - Ready for deployment and future enhancements
