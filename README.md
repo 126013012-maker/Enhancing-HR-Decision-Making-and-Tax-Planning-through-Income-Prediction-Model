@@ -11,10 +11,11 @@ This project builds a machine learning-based web application to predict whether 
 - Ready for deployment and future enhancements
 
 income-prediction-hr-tax
- *salary_model.pkl         → Trained model
- *app.py                   → app code
- *adult 3.csv              → Dataset used
- *requirements.txt         → Dependencies list
- *income prediction.ipynb   → Full Colab training & testing
+ - salary_model.pkl         -> Trained model
+ - app.py                   -> app code
+ - adult 3.csv              ->Dataset used
+ - requirements.txt         -> Dependencies list
+ - income prediction.ipynb   ->Full Colab training & testing
+ -  result.pdf               -> Obtained result
  
 
