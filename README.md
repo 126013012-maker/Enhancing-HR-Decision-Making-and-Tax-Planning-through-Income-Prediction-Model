@@ -1,4 +1,4 @@
-# Enhancing-HR-Decision-Making-and-Tax-Planning-through-Income-Prediction-Model
+# Enhancing-HR-Decision-Making-and-Tax-Planning-through-Salary-Prediction-Model
 
 This project builds a machine learning-based web application to predict whether an individual's income is above or below 50K/year based on demographic and work-related features. It helps HR departments in automated screening and aids in tax planning decisions.
 
